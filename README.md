@@ -3,7 +3,7 @@
 <hr />
 
 
-    <summary><strong>Métodos</strong></summary>
+    <strong>Métodos</strong>
         <br />
         <ul>
             <li>Listar séries</li>
@@ -17,7 +17,7 @@
 <hr />
 
 
-  <summary><strong>Fonte</strong></summary>
+  <strong>Fonte</strong>
     <br />
     <p align="left">
         Plataforma: <a href="https://web.digitalinnovation.one/home">Digital Innovation One.</a>

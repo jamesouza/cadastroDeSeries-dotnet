@@ -1,18 +1,19 @@
 <h3 align="center">Cadastro de Séries em .NET</h3>
 
-<hr />
+<hr/>
 
 <strong>Métodos</strong>
 
-<br />
-    <p align="left">1 - Listar séries</p>
-    <p align="left">2  - Inserir série</p>
-    <p align="left">3 - Atualizar série</p>
-    <p align="left">4 - Excluir série</p>
-    <p align="left">5 - Visualizar série</p>
+   <p align="left">
+        1 - Listar séries<br />
+        2  - Inserir série<br />
+        3 - Atualizar série<br />
+        4 - Excluir série<br />
+        5 - Visualizar série<br />
+    </p>
 
          
-<hr />
+<hr/>
 
   <strong>Fonte</strong>
     <br />

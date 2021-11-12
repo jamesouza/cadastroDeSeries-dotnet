@@ -20,9 +20,9 @@
   <summary><strong>Fonte</strong></summary>
     <br />
     <p align="left">
-        Plataforma: <a href="https://web.dio.me/" target="_blankl">Digital Innovation One.</a>
+        Plataforma: <a href="https://web.dio.me/" target="_blank">Digital Innovation One.</a>
         <br /> 
-        Desafio: <a href="https://web.dio.me/lab/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/learning/b41ce1c2-5a2d-4fde-babd-e7a22cee8345" target="_blankl">Criando um APP simples de cadastro de séries em .NET.</a>
+        Desafio: <a href="https://web.dio.me/lab/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/learning/b41ce1c2-5a2d-4fde-babd-e7a22cee8345" target="_blank">Criando um APP simples de cadastro de séries em .NET.</a>
     </p>
 </details>
 

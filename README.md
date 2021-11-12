@@ -5,13 +5,13 @@
 
     <summary><strong>Métodos</strong></summary>
         <br />
-        <ol>
+        <ul>
             <li>Listar séries</li>
             <li>Inserir série</li>
             <li>Atualizar série</li>
             <li>Excluir série</li>
             <li>Visualizar série</li>
-        </ol>
+        </ul>
 
 
 <hr />

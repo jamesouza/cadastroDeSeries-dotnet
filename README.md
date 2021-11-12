@@ -1,4 +1,4 @@
-<h3 align="center">Cadastro de Séries em .NET :movie_camera:</h3>
+<h3 align="center">Dio |  Criando um APP simples de cadastro de séries em .NET :movie_camera:</h3>
 
 <hr />
 
@@ -20,9 +20,9 @@
   <summary><strong>Fonte</strong></summary>
     <br />
     <p align="left">
-        Plataforma: <a href="https://web.digitalinnovation.one/home">Digital Innovation One.</a>
+        Plataforma: <a href="https://web.dio.me/">Digital Innovation One.</a>
         <br /> 
-        Desafio: <a href="https://web.digitalinnovation.one/lab/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/learning/9432e625-663e-481a-971b-c77a4aa96d16">Criando um APP simples de cadastro de séries em .NET.</a>
+        Desafio: <a href="https://web.dio.me/lab/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/learning/b41ce1c2-5a2d-4fde-babd-e7a22cee8345">Criando um APP simples de cadastro de séries em .NET.</a>
     </p>
 </details>
 

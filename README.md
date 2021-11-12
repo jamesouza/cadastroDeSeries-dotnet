@@ -5,12 +5,11 @@
 
     <strong>Métodos</strong>
         <br />
-        <ul>
-            <li>Listar séries</li>
-            <li>Inserir série</li>
-            <li>Atualizar série</li>
-            <li>Excluir série</li>
-            <li>Visualizar série</li>
+            <p>1 - Listar séries</p>
+            <p>2  - Inserir série</p>
+            <p>3 - Atualizar série</p>
+            <p>4 - Excluir série</p>
+            <p>5 - Visualizar série</p>
         </ul>
 
 
